@@ -16,6 +16,7 @@ public class ParentHs {
 		System.out.println("run me last");
 		System.out.println("run me last2");
 		System.out.println("run me last3");
+		System.out.println("run me last4");
 	}
 	
 	public void doThis() 
